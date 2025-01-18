@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, React, Next.js, Express, Node.js, MongoDB**
 
-- 📫 How to reach me **muhammadfidahassan78@gmail.com**
+- 📫 How to reach me **ahmadghafar0314@gmail.com**
 
 - ⚡ Fun fact **An unusual way you learned programming**
 
